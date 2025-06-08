@@ -170,3 +170,124 @@ Example:
 Creating definitions is a complex task. Lexicographers must choose the best strategies depending on the word, the dictionary’s purpose, and the users’ needs. Whether using corpus data, semantic features, or traditional definitions, the goal remains the same: to provide accurate, understandable, and meaningful explanations of words.
 
 
+# Creating New Vocabulary in English
+
+## 
+
+New words emerge when new ideas or phenomena need naming. While linguists can identify general processes for forming new words, it's hard to say exactly when a word was first used or why it becomes widely accepted. Dictionaries like the Oxford English Dictionary offer historical citations but don’t explain why some words catch on universally.
+
+## Meaning Extension
+
+A common way to create new words is **meaning extension**, where an existing word gains a new sense.
+
+- **Example:** *Memory* originally meant human memory but extended to computers by the 1940s.
+- **Example:** *9/11* refers not only to the date of the 2001 attacks but also symbolizes the event and global terrorism. It’s memorable because it matches the US emergency number 911 and visually represents the twin towers.
+
+This process often creates metaphors, like:
+
+- *The head of the organization* (leader)
+- *The heart of the problem* (central issue)
+- *At arm’s length* (keeping distance)
+
+Another example is *family*, which can mean:
+
+- People related by blood or marriage  
+- A crime group, e.g., the “Gambino family”
+
+## Common Word Formation Processes
+
+### Compounding
+
+**Compounding** combines two words to create a new one with a specific meaning.
+
+- **Examples:**  
+  - *Policeman* (police + man)  
+  - *Birthmark* (birth + mark)  
+  - *Blackberry* (black + berry)  
+  - *Playoff* (play + off)
+
+Compounds can be written as one word, hyphenated, or separate words depending on tradition and meaning.
+
+Stress patterns also differ:
+
+- *white house* (a house painted white)  
+- *White House* (the U.S. president’s residence)
+
+### Affixation
+
+Adding prefixes or suffixes creates new words.
+
+- **Examples:**  
+  - *Texter* (someone who sends texts)  
+  - *Subprime* (a risky loan)  
+  - *Flexitarian* (mostly vegetarian but sometimes eats meat)
+
+### Borrowing
+
+English borrows words from many languages:
+
+- From Old Norse: *sky*, *skin*  
+- From German: *kindergarten*, *hamburger*  
+- From Arabic: *coffee*, *alcohol*  
+- From Yiddish: *bagel*, *schmooze*  
+- From Chinese: *kung fu*, *chow mein*  
+- From Spanish: *taco*, *avocado*
+
+### Functional Shift
+
+Sometimes a word changes its grammatical category without changing form.
+
+- **Example:**  
+  - *Bottle* can be a noun or a verb ("She bottles her own beer.")  
+  - *Google* went from a company name to a verb ("I googled the recipe.")
+
+### Root Creation
+
+Some words are invented from scratch.
+
+- **Example:** *Googol* (a huge number) led to *Google*.  
+- Echoic words imitate sounds, like *buzz* or *splash*.
+
+### Clipping and Blending
+
+- **Clipping:** Shortening a longer word.  
+  - *Flu* (influenza)  
+  - *Phone* (telephone)  
+  - *Doc* (doctor)
+
+- **Blending:** Combining parts of two words.  
+  - *Brunch* (breakfast + lunch)  
+  - *Smog* (smoke + fog)  
+  - *Blog* (web + log)
+
+### Acronyms and Abbreviations
+
+- **Acronyms** are pronounced as words:  
+  - *NATO* (North Atlantic Treaty Organization)  
+  - *Laser* (light amplification by stimulated emission of radiation)
+
+- **Abbreviations** are spelled out letter by letter:  
+  - *FBI* (Federal Bureau of Investigation)  
+  - *CIA* (Central Intelligence Agency)
+
+### Back-Formation
+
+New words sometimes form by removing parts from existing words.
+
+- **Examples:**  
+  - *Edit* from *editor*  
+  - *Liaise* from *liaison*  
+  - *Burgle* from *burglar*
+
+### Folk Etymology
+
+Borrowed words can be changed to sound more English.
+
+- **Examples:**  
+  - *Pea* (from Old English *pease*, mistakenly taken as plural)  
+  - *Chaise lounge* (from French *chaise longue*)  
+  - *Humble pie* (originally *umble pie*, made from animal intestines)
+
+## 
+
+English vocabulary is dynamic, shaped by many processes. Some new words become permanent, while others fade away. Understanding how words form helps us appreciate the richness and flexibility of the language.
