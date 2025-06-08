@@ -600,4 +600,189 @@ Example:
 Creating definitions is a complex task. Lexicographers must choose the best strategies depending on the word, the dictionary’s purpose, and the users’ needs. Whether using corpus data, semantic features, or traditional definitions, the goal remains the same: to provide accurate, understandable, and meaningful explanations of words.
 
 
+# Deixis
+
+Deixis refers to the "pointing" function of language - how words can refer to people, objects, times, or places in relation to the context of an utterance. Words do not just have static meanings; they can also function dynamically by indicating or "pointing at" entities, locations, or times, depending on who is speaking, when, and where.
+
+---
+
+## Illustrative Example
+
+The text opens with an example from a radio show, where both hosts (who are brothers) say, "Don't drive like my brother." Although the phrase is identical, "my brother" refers to a different person in each utterance. This highlights how deixis operates: the referent of "my brother" changes based on who is speaking. This is an example of **referential deixis**—the use of language to refer to entities in the world, with the reference determined by the context of utterance.
+
+---
+
+## Types of Deixis
+
+### 1. Referential Deixis
+
+Referential deixis is divided into two main types:
+
+- **Exophora:** Reference to something outside the text, relying on the situational context.  
+  *Example:* Pronouns like "I," "we," "you," and demonstratives like "that" in a conversation are exophoric—they refer to the speaker, the addressee, or objects in the shared environment. Understanding these references requires knowledge of the context in which the utterance occurs.
+
+- **Endophora:** Reference within the text itself, creating connections or "cohesive ties" between parts of the text. Endophora is further divided into:
+  - **Anaphoric Reference:** Refers back to something previously mentioned (the antecedent).  
+    *Example:* After introducing "Sophie Green," subsequent references to "she" or "her" are anaphoric.
+  - **Cataphoric Reference:** Refers forward to something that will be mentioned later.  
+    *Example:* "Although she was tired, the woman continued working"—"she" anticipates the noun "the woman".
+
+Endophoric reference is more common in written texts, where the reader must rely on textual cues rather than shared physical context.
+
+---
+
+### 2. Broad Reference
+
+Sometimes, pronouns like "that" or "this" do not refer to a single noun phrase, but to a larger idea or stretch of discourse.  
+*Example:* "That" can refer to an entire concept or previous statement, and "this" can refer to a whole preceding conversation turn. Such broad reference is especially common in informal speech.
+
+---
+
+### 3. Generic vs. Specific Reference
+
+- **Generic Reference:** Refers to all members of a class, not specific individuals.  
+  *Example:* "students" in "Even when students arrive at university..." refers to students in general.
+
+- **Specific Reference:** Refers to particular entities.  
+  *Example:* "students" in a news report about a specific incident refers to actual people involved.
+
+Specific reference can be further divided into:
+  - **Indefinite Reference:** Refers to a non-specific entity (e.g., "a student").
+  - **Definite Reference:** Refers to a known, specific entity (e.g., "the students").
+
+---
+
+## Context Dependence
+
+- **Spoken Language:** Exophoric reference is prevalent, as the physical and social context is shared between speaker and listener.
+- **Written Language:** Endophoric reference dominates, as the context must be established within the text itself. First and second person pronouns ("I," "you") can occur in writing but are more typical of informal writing.
+
+---
+
+## Summary Table
+
+| Type         | Subtype     | Example                                         | Context Required         |
+|--------------|-------------|-------------------------------------------------|-------------------------|
+| Referential  | Exophora    | "I," "you," "that" (in conversation)           | External (situational)  |
+| Referential  | Endophora   | "she" referring back to "Sophie Green"          | Internal (textual)      |
+| Endophora    | Anaphoric   | "she" after "Sophie Green"                      | Previous text           |
+| Endophora    | Cataphoric  | "Although she was tired, the woman..."          | Following text          |
+| Broad Ref.   | —           | "that" referring to a whole idea                | Discourse context       |
+| Reference    | Generic     | "students" (all students)                       | General knowledge       |
+| Reference    | Specific    | "the students" (particular group)               | Shared or textual       |
+
+
+## Spatial Deixis
+
+Spatial Deixis refers to the way language situates people, objects, and actions in space relative to the speaker or writer. It examines how demonstratives (this, that, these, those), spatial adverbs (here, there), and certain prepositions (in, on) function to indicate proximity or distance, both physically and metaphorically.
+
+### Demonstratives and Spatial Reference
+
+**Proximal vs. Distal:**  
+Demonstratives and spatial adverbs have proximal (near the speaker) and distal (far from the speaker) uses.
+
+- **Proximal examples:**
+  - "this computer" (the computer is near the speaker)
+  - "these chairs and tables here" (items close to the speaker)
+
+- **Distal examples:**
+  - "that guy" (the person is farther from the speaker)
+  - "those few begonias" (plants farther away from the speaker than "these" plants)
+
+**Dialogic Use:**  
+In conversation, speakers may use different demonstratives to refer to the same type of object, depending on their relative spatial positions. For example, one speaker refers to "these damn plants" (close to her), while the other refers to "those few begonias" (farther away).
+
+### Beyond Physical Distance
+
+**Abstract and Discourse Reference:**  
+Demonstratives do not always refer to physical objects or locations. They can also refer to:
+- Properties of objects
+- Actions or events
+- Abstract features of the situation
+- Previous statements or ideas in the discourse
+
+For example, in "Right, forget that. Scrap that point," "that" refers to a previous statement, not a physical entity. In such cases, the choice between "this" and "that" may not signal spatial proximity but rather serves a textual or discourse function.
+
+### Spatial Adverbials and Prepositions
+
+**Adverbs:**  
+"Here" and "there" specify locations relative to the speaker:
+
+> "Is it here, or is it there? I think it's upstairs."  
+> The speaker contrasts locations near and far and introduces another possible location ("upstairs").
+
+**Prepositions:**  
+Phrases like "in the room," "on the roof," or "a few doors away" use prepositions to further situate entities in space relative to the speaker or other reference points.
+
+---
+
+
+## Spatial Deixis Summary Table
+
+| Deictic Expression | Proximal (Near)         | Distal (Far)           | Abstract/Discourse Use    |
+|--------------------|------------------------|------------------------|---------------------------|
+| Demonstratives     | this, these            | that, those            | "Scrap that point"        |
+| Adverbs            | here                   | there                  |                           |
+| Prepositions       | in (the room), on (roof)| away (a few doors away)|                           |
+
+---
+
+
+
+## Temporal Deixis
+
+Temporal deixis explores how language anchors events, actions, and states in time relative to the moment of speaking or writing. English uses various linguistic mechanisms to express time, including prepositions, adverbials, and verb tenses.
+
+### Temporal Prepositions and Their Evolution
+
+Many English prepositions that now indicate time (e.g., *in the morning*, *on time*, *at noon*, *by the evening*) originally had spatial meanings. This shift reflects a broader linguistic trend where spatial terms evolve to express temporal relationships.
+
+### Linguistic Markers of Temporal Deixis
+
+- **Temporal Adverbials:** Words and phrases such as *yesterday*, *tomorrow*, *in the morning* directly specify points or periods in time.
+- **Verb Tense:** English verbs are marked for present and past tense, which situate events relative to the time of utterance. Unlike some languages, English lacks a true morphological future tense. Instead, it uses modal verbs (*will*, *shall*), periphrastic constructions (*be going to*), or present tense with a future-time adverbial (*I return to town next week*) to indicate future events.
+
+### Reference Point for Temporal Deixis
+
+The present—the moment of speaking or writing—is the principal reference point for temporal deixis. Events are described as occurring before (past), at (present), or after (future) this point.
+
+### Tense and Aspect in English
+
+- **Present and Past Tense:** Marked morphologically on verbs. The present tense can indicate the instantaneous present (*There goes that bloody dog*), a timeless state (*She speaks English*), or habitual actions (*She gets up at nine every day*).
+- **No Morphological Future Tense:** Future meaning is constructed using modal verbs or adverbials.
+- **Aspect:** While not strictly deictic, aspect interacts with tense to express temporal relationships:
+  - **Perfective Aspect** (e.g., *have made*, *has produced*): Indicates an event that began in the past and continues to the present or has relevance to the present.
+  - **Past Perfect** (e.g., *had been arrested*): Describes an event completed before another past event.
+  - **Progressive Aspect** (e.g., *is working*, *was reading*): Describes ongoing actions, either in the present or past.
+  - **Perfective + Progressive** (e.g., *have been listening*): Combines ongoing activity with a time frame stretching from the past to the present.
+
+### Temporal Deixis in Discourse
+
+The choice of tense and aspect allows speakers to sequence events and indicate their relevance or completion relative to the present moment.
+
+Adverbials often clarify or even override the temporal meaning of verb forms (e.g., *just* in *everybody has just left the room* can make the difference between present perfect and simple past negligible).
+
+---
+
+## Temporal Deixis Summary Table
+
+| Marker Type         | Examples                        | Function                          |
+|---------------------|---------------------------------|-----------------------------------|
+| Prepositions        | in the morning, on time, at noon| Anchor events in time             |
+| Adverbials          | yesterday, tomorrow, next week  | Specify temporal reference        |
+| Tense               | present, past                   | Situate events relative to utterance time |
+| Modals/Periphrasis  | will, shall, be going to        | Express future events             |
+| Aspect              | have made, is working, had been | Indicate temporal flow and completion |
+
+---
+
+## Conclusion
+Deixis is the linguistic mechanism by which language "points" to entities in the world or in discourse. Understanding deixis requires attention to context: who is speaking, when, where, and what has already been said. English uses both exophoric (context-dependent) and endophoric (text-dependent) reference, with different prevalence in spoken and written language. Pronouns and demonstratives can refer narrowly (to a noun phrase) or broadly (to whole ideas or stretches of conversation). Reference can be generic (all members of a class) or specific (particular entities), and can be definite or indefinite depending on the context and shared knowledge.
+
+Spatial deixis is not limited to literal, physical space but extends to the organization of discourse and abstract reference. The choice of demonstrative (this/these vs. that/those) is context-dependent and can be influenced by physical distance, discourse structure, or speaker intention. Spatial adverbials and prepositional phrases enrich the spatial landscape of utterances, allowing speakers to specify, contrast, or elaborate on locations in nuanced ways. 
+
+Temporal deixis, like spatial deixis, is fundamentally anchored in the speaker's "here and now." English uses a combination of prepositions, adverbials, tense, and aspect to express when events occur relative to the present. The distinction between tense and aspect can be subtle, and their interaction allows for nuanced temporal reference. The evolution of spatial terms into temporal markers illustrates the close conceptual link between space and time in language.
+
+
+
 
