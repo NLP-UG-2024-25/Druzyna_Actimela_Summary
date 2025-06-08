@@ -1,7 +1,7 @@
 The author begins by explaining that **words**, like *sentences* and *clauses*, have an **internal structure** that follows **predictable rules**.
 
 - For example:  
-  <span style="color:teal">Plural endings</span> in English usually appear **at the end of nouns** (e.g., **_laws_**).  
+  <span style="color:teal">Plural endings</span> in English usually appear **at the end of nouns** (e.g., **_laws_**). cd 
   <span style="color:purple">Derivational affixes</span> (prefixes/suffixes that change meaning) can appear at either the **beginning** or **end** (e.g., **_unlawful_**).
 
 ---
