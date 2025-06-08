@@ -166,6 +166,33 @@ Such words are typically treated as **single morphemes** in contemporary English
 General consensus:  
 In the absence of a middle category, these are best regarded as **free morphemes**
 
+# Lexical Semantics: How Words Carry Meaning
+
+The section on **lexical semantics** focuses on how individual words express meaning and how that meaning is determined in practice. Even words that seem easy to define, like *chair*, turn out to be more complex than expected. Definitions from different dictionaries all agree that a chair is a seat for one person and has a back, but they differ on whether it needs to have four legs, arms, or how important comfort is. This highlights how meaning isn't fixed—it depends on interpretation, context, and even on the goals of those writing the definitions.
+
+Instead of relying only on dictionary entries, linguists study word meaning using real examples from language in use. One important method in lexicography is collecting **citation slips**—short excerpts that show how a word is actually used in a sentence. The original *Oxford English Dictionary* was built using this approach, with thousands of handwritten slips submitted by volunteers. Although it was a major innovation, this process mostly captured written English from educated sources, which influenced how meaning was represented.
+
+Another key concept is **word frequency**. According to Zipf’s Law, a small number of words (like *the*, *of*, *and*) appear extremely often, while most others occur rarely. This creates a challenge for dictionary-makers because the words that carry the most meaning—like *lexicography* or *semantics*—are often the least frequent. To illustrate this, the textbook includes a short sample paragraph where just eight words account for more than a third of the total word count:
+
+| Word     | Number of occurrences |
+|----------|------------------------|
+| the      | 10                     |
+| a        | 7                      |
+| of       | 6                      |
+| word(s)  | 6                      |
+| as       | 5                      |
+| from     | 3                      |
+| on       | 3                      |
+| which    | 3                      |
+|Total       | 43                   |
+
+To capture low-frequency but semantically rich words, lexicographers now use large text collections, or **corpora**, that include both written and spoken language.
+
+With tools like **concordancers**, it’s easier to explore how words behave in different contexts. For example, *chair* can refer to furniture or to a role like *chair of a department*. This is an example of **polysemy**, where a single word has multiple related meanings. Deciding whether those are separate senses or just contextual variations is part of the lexicographer’s job.
+
+A well-known experiment by Labov shows how meaning can shift depending on context. Participants were shown images of containers and asked to label them. When presented neutrally, many called one object a *cup*, but when told it held mashed potatoes, they were more likely to call it a *bowl*. This kind of context sensitivity explains why dictionary definitions often include words like *usually* or *commonly*, allowing for flexibility rather than rigid categories.
+
+In the end, lexical semantics reveals that word meaning is shaped not just by form, but by use, frequency, and the situation in which language occurs.
 
 # Creating Word Definitions – Summary
 
@@ -430,35 +457,6 @@ Borrowed words can be changed to sound more English.
 ## 
 
 English vocabulary is dynamic, shaped by many processes. Some new words become permanent, while others fade away. Understanding how words form helps us appreciate the richness and flexibility of the language.
-
-
-### Lexical Semantics: How Words Carry Meaning
-
-The section on **lexical semantics** focuses on how individual words express meaning and how that meaning is determined in practice. Even words that seem easy to define, like *chair*, turn out to be more complex than expected. Definitions from different dictionaries all agree that a chair is a seat for one person and has a back, but they differ on whether it needs to have four legs, arms, or how important comfort is. This highlights how meaning isn't fixed—it depends on interpretation, context, and even on the goals of those writing the definitions.
-
-Instead of relying only on dictionary entries, linguists study word meaning using real examples from language in use. One important method in lexicography is collecting **citation slips**—short excerpts that show how a word is actually used in a sentence. The original *Oxford English Dictionary* was built using this approach, with thousands of handwritten slips submitted by volunteers. Although it was a major innovation, this process mostly captured written English from educated sources, which influenced how meaning was represented.
-
-Another key concept is **word frequency**. According to Zipf’s Law, a small number of words (like *the*, *of*, *and*) appear extremely often, while most others occur rarely. This creates a challenge for dictionary-makers because the words that carry the most meaning—like *lexicography* or *semantics*—are often the least frequent. To illustrate this, the textbook includes a short sample paragraph where just eight words account for more than a third of the total word count:
-
-| Word     | Number of occurrences |
-|----------|------------------------|
-| the      | 10                     |
-| a        | 7                      |
-| of       | 6                      |
-| word(s)  | 6                      |
-| as       | 5                      |
-| from     | 3                      |
-| on       | 3                      |
-| which    | 3                      |
-|Total       | 43                   |
-
-To capture low-frequency but semantically rich words, lexicographers now use large text collections, or **corpora**, that include both written and spoken language.
-
-With tools like **concordancers**, it’s easier to explore how words behave in different contexts. For example, *chair* can refer to furniture or to a role like *chair of a department*. This is an example of **polysemy**, where a single word has multiple related meanings. Deciding whether those are separate senses or just contextual variations is part of the lexicographer’s job.
-
-A well-known experiment by Labov shows how meaning can shift depending on context. Participants were shown images of containers and asked to label them. When presented neutrally, many called one object a *cup*, but when told it held mashed potatoes, they were more likely to call it a *bowl*. This kind of context sensitivity explains why dictionary definitions often include words like *usually* or *commonly*, allowing for flexibility rather than rigid categories.
-
-In the end, lexical semantics reveals that word meaning is shaped not just by form, but by use, frequency, and the situation in which language occurs.
 
 # Creating Word Definitions – Summary
 
