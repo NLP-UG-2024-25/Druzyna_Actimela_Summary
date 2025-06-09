@@ -779,12 +779,44 @@ Adverbials often clarify or even override the temporal meaning of verb forms (e.
 
 ---
 
-## What matters?
-Deixis is the linguistic mechanism by which language "points" to entities in the world or in discourse. Understanding deixis requires attention to context: who is speaking, when, where, and what has already been said. English uses both exophoric (context-dependent) and endophoric (text-dependent) reference, with different prevalence in spoken and written language. Pronouns and demonstratives can refer narrowly (to a noun phrase) or broadly (to whole ideas or stretches of conversation). Reference can be generic (all members of a class) or specific (particular entities), and can be definite or indefinite depending on the context and shared knowledge.
+## What Matters in Deixis
 
-Spatial deixis is not limited to literal, physical space but extends to the organization of discourse and abstract reference. The choice of demonstrative (this/these vs. that/those) is context-dependent and can be influenced by physical distance, discourse structure, or speaker intention. Spatial adverbials and prepositional phrases enrich the spatial landscape of utterances, allowing speakers to specify, contrast, or elaborate on locations in nuanced ways. 
+### Key Concepts
 
-Temporal deixis, like spatial deixis, is fundamentally anchored in the speaker's "here and now." English uses a combination of prepositions, adverbials, tense, and aspect to express when events occur relative to the present. The distinction between tense and aspect can be subtle, and their interaction allows for nuanced temporal reference. The evolution of spatial terms into temporal markers illustrates the close conceptual link between space and time in language.
+- **Deixis** refers to how language "points" to things in the world or in discourse.
+- It relies heavily on **context**: who is speaking, when, where, and what has already been said.
+- English uses both:
+  - **Exophoric reference** – context-dependent (e.g. "here", "she")
+  - **Endophoric reference** – text-dependent (e.g. "this", "the former")
+
+### Reference Scope and Type
+
+- Reference can be:
+  - **Narrow** – pointing to a noun phrase
+  - **Broad** – referring to an idea or stretch of discourse
+- It can also be:
+  - **Generic** – referring to an entire class (e.g. "Cats are independent")
+  - **Specific** – referring to particular entities
+- Definiteness (definite vs. indefinite) depends on context and shared knowledge.
+
+### Spatial Deixis
+
+- Not limited to physical space — also applies to discourse structure and abstract ideas.
+- Demonstratives like **"this/these"** vs. **"that/those"** are used based on:
+  - physical distance
+  - discourse organization
+  - speaker intention
+- Spatial adverbs and prepositional phrases provide nuanced detail about location and contrast.
+
+### Temporal Deixis
+
+- Anchored in the speaker’s present moment ("now").
+- Expressed through:
+  - temporal adverbs (e.g. "now", "then")
+  - prepositions (e.g. "in", "on", "at")
+  - tense and aspect
+- Tense and aspect work together to convey subtle temporal meanings.
+- The use of spatial terms to express time (e.g. "ahead of time") shows a strong link between how we conceptualiz
 
 
 
