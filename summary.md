@@ -1,5 +1,5 @@
 
-# **Summary of the Introduction Chapter**
+# **Summary of the 6th Chapter**
 =======
 The author begins by explaining that **words**, like *sentences* and *clauses*, have an **internal structure** that follows **predictable rules**.
 
@@ -79,7 +79,7 @@ This question sets the stage for deeper exploration in:
 - **Linguistics**
 - **Philosophy of language**
 
-# **Summary of "Varying Definitions of Meaning"**
+# **Varying Definitions of Meaning"**
 
 This section explores **different approaches** to understanding the concept of **meaning in language**. As introduced in Chapter 3, two main types of meaning are distinguished:
 
@@ -122,7 +122,7 @@ This section explores **different approaches** to understanding the concept of *
 
 ---
 
-# **Summary of “The Morpheme”**
+# **The Morpheme**
 
 The author introduces the **morpheme** as the **smallest unit of meaning** in language.  
 All words consist of one or more morphemes.
@@ -194,10 +194,7 @@ A well-known experiment by Labov shows how meaning can shift depending on contex
 
 In the end, lexical semantics reveals that word meaning is shaped not just by form, but by use, frequency, and the situation in which language occurs.
 
-# Creating Word Definitions – Summary
-
-## Introduction
-
+# Creating Word Definitions 
 Dictionaries provide a wide range of information about words, such as their spelling, pronunciation, etymology, and **meaning**. Research shows that most users consult dictionaries mainly to understand the meanings of rare or unfamiliar words. Because of this, lexicographers aim to define words in a **clear** and **concise** way.
 
 ## Defining Words: Two Main Approaches
@@ -458,7 +455,7 @@ Borrowed words can be changed to sound more English.
 
 English vocabulary is dynamic, shaped by many processes. Some new words become permanent, while others fade away. Understanding how words form helps us appreciate the richness and flexibility of the language.
 
-# Creating Word Definitions – Summary
+# Creating Word Definitions 
 
 ## Introduction
 
