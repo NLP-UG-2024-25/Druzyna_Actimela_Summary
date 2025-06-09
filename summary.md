@@ -8,7 +8,7 @@ The author begins by explaining that **words**, like *sentences* and *clauses*, 
   <span style="color:purple">Derivational affixes</span> (prefixes/suffixes that change meaning) can appear at either the **beginning** or **end** (e.g., **_unlawful_**).
 
 ---
-
+.
 ## **Structure Isn’t Everything**
 
 However, **structure alone** doesn’t fully explain **how words function** in real language.  
