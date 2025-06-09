@@ -1,3 +1,4 @@
+<h1 style="color:darkgreen"><strong>Summary of the 6th Chapter</strong></h1>
 
 # **Summary of the 6th Chapter**
 
