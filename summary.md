@@ -803,9 +803,9 @@ Adverbials often clarify or even override the temporal meaning of verb forms (e.
 
 - Not limited to physical space — also applies to discourse structure and abstract ideas.
 - Demonstratives like **"this/these"** vs. **"that/those"** are used based on:
-  - physical distance
-  - discourse organization
-  - speaker intention
+  - physical distance;
+  - discourse organization;
+  - speaker intention;
 - Spatial adverbs and prepositional phrases provide nuanced detail about location and contrast.
 
 ### Temporal Deixis
