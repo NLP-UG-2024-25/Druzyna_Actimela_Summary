@@ -1,6 +1,6 @@
 
 # **Summary of the 6th Chapter**
-
+.
 The author begins by explaining that **words**, like *sentences* and *clauses*, have an **internal structure** that follows **predictable rules**.
 
 - For example:  
