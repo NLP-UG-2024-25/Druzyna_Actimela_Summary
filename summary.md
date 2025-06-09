@@ -79,7 +79,7 @@ This question sets the stage for deeper exploration in:
 - **Linguistics**
 - **Philosophy of language**
 
-# **Varying Definitions of Meaning"**
+# **Varying Definitions of Meaning**
 
 This section explores **different approaches** to understanding the concept of **meaning in language**. As introduced in Chapter 3, two main types of meaning are distinguished:
 
@@ -620,7 +620,7 @@ The text opens with an example from a radio show, where both hosts (who are brot
 ### 1. Referential Deixis
 
 Referential deixis is divided into two main types:
-
+mea
 - **Exophora:** Reference to something outside the text, relying on the situational context.  
   *Example:* Pronouns like "I," "we," "you," and demonstratives like "that" in a conversation are exophoric—they refer to the speaker, the addressee, or objects in the shared environment. Understanding these references requires knowledge of the context in which the utterance occurs.
 
@@ -816,7 +816,7 @@ Adverbials often clarify or even override the temporal meaning of verb forms (e.
   - prepositions (e.g. "in", "on", "at")
   - tense and aspect
 - Tense and aspect work together to convey subtle temporal meanings.
-- The use of spatial terms to express time (e.g. "ahead of time") shows a strong link between how we conceptualiz
+- The use of spatial terms to express time (e.g. "ahead of time") shows a strong link between how we conceptualize space and time.
 
 
 
